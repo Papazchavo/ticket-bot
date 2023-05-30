@@ -3,10 +3,9 @@
 **istiyorsanız star verin liste çekin eklerim kardeşimlerim v13 bir Ticke botu adam akklı yok alın salıyorum herkez istedi**
 
 ## 🔧**Kurulum**
-```src config token("TOKEN GİRİCEN ORAYA AMK ONUDA BEN DEMİYİM SİZE")
+```src config token("TOKEN GİRİCEN ORAYA AMK ONUDA BEN DEMİYİM SİZE")```
 
-papaz.js içimde giriş-çıkış log kanal id giriceksiniz resim atdım bakın ve yapın eksik yaparsınız hata alır doldur başlat cmd katdım iyi kulanmalar
-```
+```papaz.js içimde giriş-çıkış log kanal id giriceksiniz resim atdım bakın ve yapın eksik yaparsınız hata alır doldur başlat cmd katdım iyi kulanmalar```
 
 
 ## 📷 Ekran Görüntüleri
