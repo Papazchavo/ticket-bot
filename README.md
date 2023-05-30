@@ -8,6 +8,8 @@
 **papaz.js içimde giriş-çıkış log kanal id giriceksiniz resim atdım bakın ve yapın eksik yaparsınız hata alır doldur başlat cmd katdım iyi kulanmalar**
 
 
+## 📢 Duyuru Resimler ve isimler benim kendi firmamla alakalı onları düzeltin resimler ve isimler var resim den devam edin kontrol edin
+
 ## 📷 Ekran Görüntüleri
 
 ![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1094247180694462485/1113126517812232384/Ekran_goruntusu_2023-05-30_182624.png?width=266&height=72)
