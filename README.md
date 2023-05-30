@@ -5,6 +5,9 @@
 ## 🔧**Kurulum**
 ```config token("TOKEN GİRİCEN ORAYA AMK ONUDA BEN DEMİYİM SİZE")```
 
+## 🔧**MongoDB Kurulumu**
+![Mongodb](https://www.mongodb.com/)
+
 **papaz.js içimde giriş-çıkış log kanal id giriceksiniz resim atdım bakın ve yapın eksik yaparsınız hata alır doldur başlat cmd katdım iyi kulanmalar**
 
 
