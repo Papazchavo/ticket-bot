@@ -13,6 +13,8 @@
 
 ## 📢 Duyuru Resimler ve isimler benim kendi firmamla alakalı onları düzeltin resimler ve isimler var resim den devam edin kontrol edin
 
+### 📢 NOT Botta MIT lisansı bulunmaktadır. Bu botun dosyalarının benden habersiz paylaşılması/satılması durumunda gerekli işlemler yapılacaktır!
+
 ## 📷 Ekran Görüntüleri
 
 ![Uygulama Ekran Görüntüsü](https://media.discordapp.net/attachments/1094247180694462485/1113126517812232384/Ekran_goruntusu_2023-05-30_182624.png?width=266&height=72)
